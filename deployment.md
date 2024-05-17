@@ -15,6 +15,8 @@
 <!-- /TOC -->
 ## Coolify.io (Self-host/VPS)
 
+Link: <https://coolify.io/docs/resources/applications/laravel>
+
 ### Minimum Required Server
 
 - 2 CPUs
